@@ -17,7 +17,7 @@ export const WEIGHTS = {
   bold: 800,
 };
 
-const BREAKPOINTS = {
+export const BREAKPOINTS = {
   laptopMax: 1300,
   tabletMax: 950,
   phoneMax: 600,
